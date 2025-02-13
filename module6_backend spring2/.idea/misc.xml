@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/lms/pom.xml" />
+        <option value="$PROJECT_DIR$/e-commerce/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa-basics/pom.xml" />
+        <option value="$PROJECT_DIR$/vpn-olili27/pom.xml" />
+        <option value="$PROJECT_DIR$/blogs-olili27/pom.xml" />
+        <option value="$PROJECT_DIR$/irctc-olili27/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-2-mock/pom.xml" />
+        <option value="$PROJECT_DIR$/spotify-olili27/pom.xml" />
+        <option value="$PROJECT_DIR$/whatsapp-olili27/pom.xml" />
+        <option value="$PROJECT_DIR$/vpn-Jauhari-01-main/pom.xml" />
+        <option value="$PROJECT_DIR$/practice-spring-boot/pom.xml" />
+        <option value="$PROJECT_DIR$/spring 2 mock - redo/spring-2-mock/pom.xml" />
+        <option value="$PROJECT_DIR$/whatsapp-upgraded-olili27/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" default="true" project-jdk-name="openjdk-19" project-jdk-type="JavaSDK" />
+</project>

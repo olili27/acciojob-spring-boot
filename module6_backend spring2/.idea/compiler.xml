@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-2-mock" />
+        <module name="jap-basics" />
+        <module name="blogs" />
+        <module name="demo" />
+        <module name="vpn (1)" />
+        <module name="lms" />
+        <module name="demo (2)" />
+        <module name="vpn" />
+        <module name="irctc" />
+        <module name="demo (1)" />
+        <module name="practice-spring-boot" />
+        <module name="spring-2-mock (1)" />
+        <module name="e-commerce" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="blogs" target="1.8" />
+      <module name="demo" target="11" />
+      <module name="demo (1)" target="11" />
+      <module name="demo (2)" target="11" />
+      <module name="e-commerce" target="17" />
+      <module name="irctc" target="1.8" />
+      <module name="jap-basics" target="17" />
+      <module name="lms" target="17" />
+      <module name="practice-spring-boot" target="17" />
+      <module name="spring-2-mock" target="17" />
+      <module name="spring-2-mock (1)" target="17" />
+      <module name="vpn" target="1.8" />
+      <module name="vpn (1)" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="blogs" options="-parameters" />
+      <module name="demo" options="-parameters" />
+      <module name="demo (1)" options="-parameters" />
+      <module name="demo (2)" options="-parameters" />
+      <module name="e-commerce" options="-parameters" />
+      <module name="irctc" options="-parameters" />
+      <module name="jap-basics" options="-parameters" />
+      <module name="lms" options="-parameters" />
+      <module name="practice-spring-boot" options="-parameters" />
+      <module name="spring-2-mock" options="-parameters" />
+      <module name="spring-2-mock (1)" options="-parameters" />
+      <module name="vpn" options="-parameters" />
+      <module name="vpn (1)" options="-parameters" />
+    </option>
+  </component>
+</project>

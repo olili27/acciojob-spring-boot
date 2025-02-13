@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/blogs-olili27/blogs.iml" filepath="$PROJECT_DIR$/blogs-olili27/blogs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spotify-olili27/demo.iml" filepath="$PROJECT_DIR$/spotify-olili27/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/whatsapp-olili27/demo (1).iml" filepath="$PROJECT_DIR$/whatsapp-olili27/demo (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/whatsapp-upgraded-olili27/demo (2).iml" filepath="$PROJECT_DIR$/whatsapp-upgraded-olili27/demo (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/e-commerce/e-commerce.iml" filepath="$PROJECT_DIR$/e-commerce/e-commerce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/irctc-olili27/irctc.iml" filepath="$PROJECT_DIR$/irctc-olili27/irctc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpa-basics/jap-basics.iml" filepath="$PROJECT_DIR$/jpa-basics/jap-basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lms/lms.iml" filepath="$PROJECT_DIR$/lms/lms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/module6_backend spring2.iml" filepath="$PROJECT_DIR$/.idea/module6_backend spring2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice-spring-boot/practice-spring-boot.iml" filepath="$PROJECT_DIR$/practice-spring-boot/practice-spring-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-2-mock/spring-2-mock.iml" filepath="$PROJECT_DIR$/spring-2-mock/spring-2-mock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring 2 mock - redo/spring-2-mock/spring-2-mock (1).iml" filepath="$PROJECT_DIR$/spring 2 mock - redo/spring-2-mock/spring-2-mock (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/vpn-olili27/vpn.iml" filepath="$PROJECT_DIR$/vpn-olili27/vpn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vpn-Jauhari-01-main/vpn (1).iml" filepath="$PROJECT_DIR$/vpn-Jauhari-01-main/vpn (1).iml" />
+    </modules>
+  </component>
+</project>
