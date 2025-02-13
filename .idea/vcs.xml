@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/assignments/Polymorphism In Java" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/assignments/encapsulation-olili27" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/assignments/method-overriding-olili27" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projects/oops/banking-olili27" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projects/oops/emails-olili27" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projects/oops/pizza-billing-olili27" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projects/oops/vehicles-olili27" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projects/spring/amazoff-olili27" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projects/spring/classroom-olili27" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projects/spring/easy-trip-olili27" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projects/spring/watchlist-olili27" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projects/spring/whatsapp-impl-olili27" vcs="Git" />
+  </component>
+</project>
